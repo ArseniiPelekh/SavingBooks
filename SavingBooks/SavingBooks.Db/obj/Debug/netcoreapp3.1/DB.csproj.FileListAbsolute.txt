@@ -1,0 +1,8 @@
+E:\Git_SavingBooks\SavingBooks\DB\bin\Debug\netcoreapp3.1\DB.deps.json
+E:\Git_SavingBooks\SavingBooks\DB\bin\Debug\netcoreapp3.1\DB.dll
+E:\Git_SavingBooks\SavingBooks\DB\obj\Debug\netcoreapp3.1\DB.AssemblyInfoInputs.cache
+E:\Git_SavingBooks\SavingBooks\DB\obj\Debug\netcoreapp3.1\DB.AssemblyInfo.cs
+E:\Git_SavingBooks\SavingBooks\DB\bin\Debug\netcoreapp3.1\DB.pdb
+E:\Git_SavingBooks\SavingBooks\DB\obj\Debug\netcoreapp3.1\DB.csprojAssemblyReference.cache
+E:\Git_SavingBooks\SavingBooks\DB\obj\Debug\netcoreapp3.1\DB.dll
+E:\Git_SavingBooks\SavingBooks\DB\obj\Debug\netcoreapp3.1\DB.pdb
